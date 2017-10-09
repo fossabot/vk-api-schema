@@ -1,4 +1,6 @@
 #VK API JSON Schema
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fvk-api-schema.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fvk-api-schema?ref=badge_shield)
+
 
 This repository contains JSON Schema documents explaining all the VK.COM API objects and methods mentioned [here](https://vk.com/dev).
 
@@ -87,3 +89,7 @@ Repository contains four .json files.
 ```
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fvk-api-schema.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fvk-api-schema?ref=badge_large)
